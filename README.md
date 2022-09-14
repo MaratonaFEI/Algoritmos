@@ -18,6 +18,14 @@ Os algoritmos aqui listados foram desenvolvidos na linguagem C++, para executa-l
 
 #### [DFS](https://github.com/MaratonaFEI/Algoritmos/tree/main/DFS)
 
+#### [Dijkstra]
+
+#### [Kruskal]
+
+#### [Prim]
+
+#### [Floyd-Warshall]
+
 ### ⌛ Programação Dinâmica
 
 #### [BIT](https://github.com/MaratonaFEI/Algoritmos/tree/main/BIT)
