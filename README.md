@@ -2,7 +2,7 @@
 
 Este repositório contém os algoritmos utilização na competição e na resolução dos exercícios da Maratona de Programação e Beecrowd.
 
-### Beecrowd
+### 🐝 Beecrowd
 
 O Beecrowd consistem em uma plataforma de programação competitiva de última geração que tem mais de 2.000 testes analíticos e de programação disponíveis em mais de 20 linguagens de programação diferentes. [Clique aqui](https://www.beecrowd.com.br/judge/pt/login) para acessar o site.
 
