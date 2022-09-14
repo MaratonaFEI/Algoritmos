@@ -26,17 +26,31 @@ Os algoritmos aqui listados foram desenvolvidos na linguagem C++, para executa-l
 
     - #### Floyd-Warshall
 
+    - #### Árvore binária
+
 
 - ### ⌛ Programação Dinâmica
 
-  - #### [Knapsack 0-1](https://github.com/MaratonaFEI/Algoritmos/tree/main/Knapsack%200-1)
+    - #### [Knapsack 0-1](https://github.com/MaratonaFEI/Algoritmos/tree/main/Knapsack%200-1)
+  
+    - #### Backtracking
+
+    - #### Guloso
+
+    - #### Caixeiro-viajante
+
+    - #### Torre de Hanói
+
+    - ####
 
 
 - ### 🔎 Buscas
 
-  - #### [BIT](https://github.com/MaratonaFEI/Algoritmos/tree/main/BIT)
+    - #### [BIT](https://github.com/MaratonaFEI/Algoritmos/tree/main/BIT)
 
-  - #### 2DBIT
+    - #### 2DBIT
+
+    - #### Busca Binária
 
 ### 📄 Licença
 
