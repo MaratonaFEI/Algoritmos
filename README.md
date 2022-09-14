@@ -41,8 +41,6 @@ Os algoritmos aqui listados foram desenvolvidos na linguagem C++, para executa-l
 
     - #### Torre de Hanói
 
-    - ####
-
 
 - ### 🔎 Buscas
 
@@ -53,6 +51,8 @@ Os algoritmos aqui listados foram desenvolvidos na linguagem C++, para executa-l
     - #### Busca Binária
 
     - #### Árvores de Segmentos
+    
+    - #### Ordenação
 
 ### 📄 Licença
 
