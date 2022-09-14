@@ -10,7 +10,10 @@ O Beecrowd consiste em uma plataforma de programação competitiva de última ge
 Os algoritmos aqui listados foram desenvolvidos na linguagem C++, para executa-los, utilize a sua IDE de preferência. Para aqueles que não possuem o C++ configurado em sua máquina recomendamos a IDE Online [Replit](https://replit.com/).
 
 ### 🖥️ Algoritmos
+
 #### [BFS](https://github.com/MaratonaFEI/Algoritmos/tree/main/BFS)
+
+#### [DFS](https://github.com/MaratonaFEI/Algoritmos/tree/main/DFS)
 
 
 ### 📄 Licença
