@@ -26,7 +26,7 @@ Os algoritmos aqui listados foram desenvolvidos na linguagem C++, para executa-l
 
     - #### Floyd-Warshall
 
-    - #### Árvore binária
+    - #### Árvore Binária
 
 
 - ### ⌛ Programação Dinâmica
