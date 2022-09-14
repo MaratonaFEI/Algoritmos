@@ -2,14 +2,14 @@
 
 Este repositório contém os algoritmos utilização na competição e na resolução dos exercícios da Maratona de Programação e Beecrowd.
 
-### 🐝 Beecrowd
+## 🐝 Beecrowd
 
 O Beecrowd consiste em uma plataforma de programação competitiva de última geração que tem mais de 2.000 testes analíticos e de programação disponíveis em mais de 20 linguagens de programação diferentes. [Clique aqui](https://www.beecrowd.com.br/judge/pt/login) para acessar o site.
 
-### 📋 Pré-requisitos
+## 📋 Pré-requisitos
 Os algoritmos aqui listados foram desenvolvidos na linguagem C++, para executa-los, utilize a sua IDE de preferência. Para aqueles que não possuem o C++ configurado em sua máquina recomendamos a IDE Online [Replit](https://replit.com/).
 
-### 🖥️ Algoritmos
+## 🖥️ Algoritmos
 
 
 ### 🌳 Grafos
@@ -20,9 +20,9 @@ Os algoritmos aqui listados foram desenvolvidos na linguagem C++, para executa-l
 
 ### ⌛ Programação Dinâmica
 
-### [BIT](https://github.com/MaratonaFEI/Algoritmos/tree/main/BIT)
+#### [BIT](https://github.com/MaratonaFEI/Algoritmos/tree/main/BIT)
 
-### 2DBIT
+#### 2DBIT
 
 #### [Knapsack 0-1](https://github.com/MaratonaFEI/Algoritmos/tree/main/Knapsack%200-1)
 
