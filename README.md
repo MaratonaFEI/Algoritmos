@@ -48,7 +48,7 @@ Os algoritmos aqui listados foram desenvolvidos na linguagem C++, para executa-l
 
     - #### 2DBIT
 
-    - #### Busca Binária
+    - #### [Busca Binária](https://github.com/MaratonaFEI/Algoritmos/tree/main/Busca%20Bin%C3%A1ria)
 
     - #### Árvores de Segmentos
     
