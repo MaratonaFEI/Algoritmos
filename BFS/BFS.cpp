@@ -10,7 +10,7 @@ vector<bool> cor; // Vetor de Cores
 vector<int> p; // Vetor de Pais
 
 queue<int> Q; // Fila de Vertices
-int BFS(int i){
+void BFS(int i){
 
     Q.push(i);
     d[i] = 0;
