@@ -52,7 +52,8 @@ Os algoritmos aqui listados foram desenvolvidos na linguagem C++, para executa-l
 
     - #### Árvores de Segmentos
     
-    - #### Ordenação
+
+- ### 📈 Ordenação 
 
 ### 📄 Licença
 
