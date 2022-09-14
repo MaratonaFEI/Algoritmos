@@ -6,7 +6,7 @@ using namespace std;
 
 vector<vector<int>> G; // Lista de Adjacencia
 vector<int> d; // Vetor de Distancias
-vector<int> cor; // Vetor de Cores
+vector<bool> cor; // Vetor de Cores
 vector<int> p; // Vetor de Pais
 
 queue<int> Q; // Fila de Vertices
