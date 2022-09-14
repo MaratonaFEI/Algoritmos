@@ -11,13 +11,14 @@ Os algoritmos aqui listados foram desenvolvidos na linguagem C++, para executa-l
 
 ### 🖥️ Algoritmos
 
-Grafos
+
+### 🌳 Grafos
 
 #### [BFS](https://github.com/MaratonaFEI/Algoritmos/tree/main/BFS)
 
 #### [DFS](https://github.com/MaratonaFEI/Algoritmos/tree/main/DFS)
 
-Programação Dinâmica
+### ⌛ Programação Dinâmica
 
 #### [Knapsack 0-1](https://github.com/MaratonaFEI/Algoritmos/tree/main/Knapsack%200-1)
 
