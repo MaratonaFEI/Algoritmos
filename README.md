@@ -52,6 +52,8 @@ Os algoritmos aqui listados foram desenvolvidos na linguagem C++, para executa-l
 
     - #### Busca Binária
 
+    - #### Árvores de Segmentos
+
 ### 📄 Licença
 
 Este projeto está sob a licença MIT License - veja o arquivo [LICENSE.md](https://github.com/MaratonaFEI/Algoritmos/blob/main/LICENSE) para detalhes.
