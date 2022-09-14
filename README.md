@@ -18,13 +18,13 @@ Os algoritmos aqui listados foram desenvolvidos na linguagem C++, para executa-l
 
 #### [DFS](https://github.com/MaratonaFEI/Algoritmos/tree/main/DFS)
 
-#### [Dijkstra]
+#### Dijkstra
 
-#### [Kruskal]
+#### Kruskal
 
-#### [Prim]
+#### Prim
 
-#### [Floyd-Warshall]
+#### Floyd-Warshall
 
 ### ⌛ Programação Dinâmica
 
