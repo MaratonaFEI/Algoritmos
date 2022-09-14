@@ -12,31 +12,31 @@ Os algoritmos aqui listados foram desenvolvidos na linguagem C++, para executa-l
 ## 🖥️ Algoritmos
 
 
-### 🌳 Grafos
+- ### 🌳 Grafos
 
-- #### [BFS](https://github.com/MaratonaFEI/Algoritmos/tree/main/BFS)
+    - #### [BFS](https://github.com/MaratonaFEI/Algoritmos/tree/main/BFS)
 
-- #### [DFS](https://github.com/MaratonaFEI/Algoritmos/tree/main/DFS)
+    - #### [DFS](https://github.com/MaratonaFEI/Algoritmos/tree/main/DFS)
 
-- #### Dijkstra
+    - #### Dijkstra
 
-- #### Kruskal
+    - #### Kruskal
 
-- #### Prim
+    - #### Prim
 
-- #### Floyd-Warshall
-
-
-### ⌛ Programação Dinâmica
-
-- #### [Knapsack 0-1](https://github.com/MaratonaFEI/Algoritmos/tree/main/Knapsack%200-1)
+    - #### Floyd-Warshall
 
 
-### 🔎 Buscas
+- ### ⌛ Programação Dinâmica
 
-- #### [BIT](https://github.com/MaratonaFEI/Algoritmos/tree/main/BIT)
+  - #### [Knapsack 0-1](https://github.com/MaratonaFEI/Algoritmos/tree/main/Knapsack%200-1)
 
-- #### 2DBIT
+
+- ### 🔎 Buscas
+
+  - #### [BIT](https://github.com/MaratonaFEI/Algoritmos/tree/main/BIT)
+
+  - #### 2DBIT
 
 ### 📄 Licença
 
