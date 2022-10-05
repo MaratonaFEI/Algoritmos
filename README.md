@@ -18,7 +18,7 @@ Os algoritmos aqui listados foram desenvolvidos na linguagem C++, para executa-l
 
     - #### [DFS](https://github.com/MaratonaFEI/Algoritmos/tree/main/DFS)
 
-    - #### Dijkstra
+    - #### [Dijkstra](https://github.com/MaratonaFEI/Algoritmos/tree/main/Dijkstra)
 
     - #### Kruskal
 
@@ -39,7 +39,7 @@ Os algoritmos aqui listados foram desenvolvidos na linguagem C++, para executa-l
 
     - #### Caixeiro-viajante
 
-    - #### Torre de Hanói
+    - #### [Torre de Hanói](https://github.com/MaratonaFEI/Algoritmos/tree/main/Torre%20de%20Han%C3%B3i)
 
 
 - ### 🔎 Buscas
