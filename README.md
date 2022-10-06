@@ -20,7 +20,7 @@ Os algoritmos aqui listados foram desenvolvidos na linguagem C++, para executa-l
 
     - #### [Dijkstra](https://github.com/MaratonaFEI/Algoritmos/tree/main/Dijkstra)
 
-    - #### Kruskal
+    - #### [Kruskal](https://github.com/MaratonaFEI/Algoritmos/tree/main/Kruskal)
 
     - #### Prim
 
