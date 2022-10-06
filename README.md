@@ -22,7 +22,7 @@ Os algoritmos aqui listados foram desenvolvidos na linguagem C++, para executa-l
 
     - #### [Kruskal](https://github.com/MaratonaFEI/Algoritmos/tree/main/Kruskal)
 
-    - #### Prim
+    - #### [Prim](https://github.com/MaratonaFEI/Algoritmos/tree/main/Prim)
 
     - #### [Floyd-Warshall](https://github.com/MaratonaFEI/Algoritmos/tree/main/Floyd-Warshall)
 
