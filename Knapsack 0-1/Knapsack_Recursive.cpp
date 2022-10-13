@@ -5,12 +5,12 @@ using namespace std;
 
 int tam;
 
-struct mochila {
+struct item {
     int valor;
     int peso;
 };
 
-vector<mochila> mochila;
+vector<item> mochila;
 
 int Knapsack(int tamanho, int i){
   if(tamanho == 0 or i == 0){
