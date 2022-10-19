@@ -51,7 +51,7 @@ int main(){
         }
 
         sort(mochila.begin(), mochila.end(), comp);
-        //for(auto x: mochila) cout << x.valor << endl;
+
         double resp = Knapsack_Frac(N, tam, mochila);
 
         printf("%.2lf\n", resp);
