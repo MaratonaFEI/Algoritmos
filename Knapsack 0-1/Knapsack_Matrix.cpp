@@ -27,7 +27,7 @@ int Knapsack(int v_size, int tamanho){
         cashe[i - 1][w - mochila[i - 1].peso],
         cashe[i - 1][w]);
         
-      else cashe[i][w] = cash[i - 1][w];
+      else cashe[i][w] = cashe[i - 1][w];
     }
   }
   return cashe[v_size][tamanho];
