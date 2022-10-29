@@ -26,7 +26,7 @@ Os algoritmos aqui listados foram desenvolvidos na linguagem C++, para executa-l
 
     - #### [Floyd-Warshall](https://github.com/MaratonaFEI/Algoritmos/tree/main/Floyd-Warshall)
 
-    - #### Árvore Binária
+    - #### [Árvore Binária](https://github.com/MaratonaFEI/Algoritmos/tree/main/Arvore%20Binaria)
 
 
 - ### ⌛ Programação Dinâmica
