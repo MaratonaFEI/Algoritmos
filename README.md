@@ -52,7 +52,7 @@ Os algoritmos aqui listados foram desenvolvidos na linguagem C++, para executa-l
 
     - #### Árvores de Segmentos
 
-    - #### [Árvore Binária de BUsca](https://github.com/MaratonaFEI/Algoritmos/tree/main/Arvore%20Binaria)
+    - #### [Árvore Binária de Busca](https://github.com/MaratonaFEI/Algoritmos/tree/main/Arvore%20Binaria)
     
 
 - ### 📈 Ordenação 
