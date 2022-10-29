@@ -51,6 +51,8 @@ Os algoritmos aqui listados foram desenvolvidos na linguagem C++, para executa-l
     - #### [Busca Binária](https://github.com/MaratonaFEI/Algoritmos/tree/main/Busca%20Bin%C3%A1ria)
 
     - #### Árvores de Segmentos
+
+    - #### [Árvore Binária de BUsca](https://github.com/MaratonaFEI/Algoritmos/tree/main/Arvore%20Binaria)
     
 
 - ### 📈 Ordenação 
