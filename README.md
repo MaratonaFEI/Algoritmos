@@ -40,6 +40,8 @@ Os algoritmos aqui listados foram desenvolvidos na linguagem C++, para executa-l
     - #### Caixeiro-viajante
 
     - #### [Torre de Hanói](https://github.com/MaratonaFEI/Algoritmos/tree/main/Torre%20de%20Han%C3%B3i)
+    
+    - #### [Window Sliding](https://github.com/MaratonaFEI/Algoritmos/blob/main/WindowSliding)
 
 
 - ### 🔎 Buscas
