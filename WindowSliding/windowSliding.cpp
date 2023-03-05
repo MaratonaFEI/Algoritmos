@@ -2,7 +2,7 @@
 
 using namespace std;
 
-void windowSlide(string &word){
+void windowSliding(string &word){
 
     string temp;
 
@@ -29,7 +29,7 @@ void windowSlide(string &word){
 int main(){
   
   string word = "ABCDEF"
-  windowSlide(word);
+  windowSliding(word);
   /*
   OUTPUT:
 
