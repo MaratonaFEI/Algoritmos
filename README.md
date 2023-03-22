@@ -59,10 +59,10 @@ Os algoritmos aqui listados foram desenvolvidos na linguagem C++, para executa-l
 
 - ### 📈 Ordenação 
 
-### 🎯Exercícios
+## 🎯Exercícios
 
 Alguns exercícios resolvidos da Maratona de Programação SBC podem ser encontrados neste [repositório](https://github.com/Kenzo-Sugai/MaratonaSBC-codes)
 
-### 📄 Licença
+## 📄 Licença
 
 Este projeto está sob a licença MIT License - veja o arquivo [LICENSE.md](https://github.com/MaratonaFEI/Algoritmos/blob/main/LICENSE) para detalhes.
