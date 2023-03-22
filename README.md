@@ -60,7 +60,7 @@ Os algoritmos aqui listados foram desenvolvidos na linguagem C++, para executa-l
 - ### 📈 Ordenação 
 
 - ### 🎯Exercícios
-    - #### Alguns exercícios resolvidos da Maratona de Programação SBC podem ser encontrados neste repositório: https://github.com/Kenzo-Sugai/MaratonaSBC-codes
+- Alguns exercícios resolvidos da Maratona de Programação SBC podem ser encontrados neste [repositório](https://github.com/Kenzo-Sugai/MaratonaSBC-codes)
 
 ### 📄 Licença
 
