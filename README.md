@@ -19,6 +19,8 @@ Os algoritmos aqui listados foram desenvolvidos na linguagem C++, para executa-l
     - #### [DFS](https://github.com/MaratonaFEI/Algoritmos/tree/main/DFS)
 
     - #### [Dijkstra](https://github.com/MaratonaFEI/Algoritmos/tree/main/Dijkstra)
+    
+    - #### [Bellman-Ford](https://github.com/MaratonaFEI/Algoritmos/tree/main/Bellman-Ford)
 
     - #### [Kruskal](https://github.com/MaratonaFEI/Algoritmos/tree/main/Kruskal)
 
