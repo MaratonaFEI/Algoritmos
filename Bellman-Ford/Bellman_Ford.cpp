@@ -32,37 +32,21 @@ bool bellman_ford(std::vector<vertice> &G, std::vector<std::vector<int>> &w, int
 
     init(G, s);
 
-    for (int &v: G[s].E) {
-
-        relax(G, w, s, v);
-        relax(G, w, v, s);
-//        for(vertice &u : G){
-//            std::cout << u.d << " ";
-//        }
-//        std::cout << std::endl;
-
-    }
-
     for(int i = 1; i < G.size(); i++){
-        //for (int u = 0; u < G.size(); u++) {
-            for (int &v: G[i].E) {
-                //std::cout << i << " " << v << std::endl;
-                relax(G, w, i, v);
-                relax(G, w, v, i);
-//                for(vertice &u : G){
-//                    std::cout << u.d << " ";
-//                }
-//                std::cout << std::endl;
+        for (int u = 0; u < G.size(); u++) {
+            for (int &v: G[u].E) {
+              
+                relax(G, w, u, v);
 
             }
-        //}
+        }
     }
 
     for(int i = 0; i < G.size(); i++){
 
         for(int v : G[i].E){
 
-            if(G[v].d > G[i].d + w[i][v]) return false;
+            if(G[i].d != INT_MAX && G[v].d > G[i].d + w[i][v]) return false;
 
         }
 
@@ -81,7 +65,9 @@ int main() {
     std::cin >> V >> E;
 
     std::vector<vertice> G(V);
-    std::vector<std::vector<int>> w(V, std::vector(V, 0));
+    std::vector<std::vector<int>> w(V);
+
+    for(int i = 0; i < V; i++) w[i].resize(V, 0);
 
     for(int i = 0; i < E; i++){
 
